@@ -5,8 +5,9 @@
 //  Created by Shea Cowan on 16/8/22.
 //
 
-#include "function-1-4.cpp"
+
 #include <iostream>
+extern int size_of_variable_star_arr();
 
 int main(){
 std::cout<<size_of_variable_star_arr()<<std::endl;
